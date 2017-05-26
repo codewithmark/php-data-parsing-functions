@@ -3,12 +3,11 @@
 You can use the below functions for parsing your php data
 
 **Size**
-	<pre>
-	$d1 = size('codewithmark'); //
+	
+	$d1 = size('codewithmark'); //    
+    	
+	echo "size of : codewithmark > " . $d1;
     
-    echo "size of : codewithmark > " . $d1;
+    	//out put
+    	size of : codewithmark > 12
     
-    //out put
-    size of : codewithmark > 12
-    </pre>
-
